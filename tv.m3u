@@ -1,0 +1,63 @@
+﻿#EXTM3U
+#EXTINF:-1 ,NHK G
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 ,NHK E
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 ,Gaki no Tsukai
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+#EXTINF:-1 ,Nippon TV 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 ,TV Asahi 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 ,TBS 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 ,TV Tokyo 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-1 ,Fuji TV 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 ,Tokyo MX1 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+#EXTINF:-1 ,Music Japan TV 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1 ,TPA
+https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR=
+#EXTINF:-1 ,La 1
+http://628102028954321277.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/321277.ts
+#EXTINF:-1 ,La 2
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/29302
+#EXTINF:-1 ,Antena 3
+http://abcnew.site:8880/D12m2185/99818221/2591
+#EXTINF:-1 ,Cuatro
+http://628102028954321196.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/321196.ts
+#EXTINF:-1 ,Telecinco
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1941
+#EXTINF:-1 ,La Sexta
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1514
+#EXTINF:-1,NEOX
+http://agramat.ro:8080/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DBTXaR6obz5JH/55366
+#EXTINF:-1,DAZN FORMULA 1 
+http://628102028954318564.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/318564.ts
+#EXTINF:-1,ES M DAZN 1 
+http://628102028954373766.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/373766.ts
+#EXTINF:-1,DAZN FORMULA 1 SD 
+http://628102028954165257.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/165257.ts
+#EXTINF:-1,UK Sky Sports F1 NO_1 
+http://cord-cutter.net:8080/X5xRz0/944877/53704
+#EXTINF:-1,Sky Sports F1  NO_2
+http://cord-cutter.net:8080/k4Svp2/645504/53704
+#EXTINF:-1,UK Sky Sports F1   NO_5 
+http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/35244
+#EXTINF:-1,UK Sky Sports F1   NO_6 
+http://cord-cutter.net:8080/k4Svp2/645504/35244
+#EXTINF:-1,UK Sky Sports F1   NO_7 
+http://cord-cutter.net:8080/k4Svp2/645504/35244
+#EXTINF:-1,DAZN 1 SD 
+http://628102028954228384.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/228384.ts
+#EXTINF:-1,DAZN Champions league
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/3615
+#EXTINF:-1,DAZN Champions league 2
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1933
+#EXTINF:-1,LALIGA HYPERMOTION
+http://628102028954320789.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/320789.ts
+
+
